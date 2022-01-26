@@ -1,6 +1,7 @@
 # Trends on Twitter
 
-This Repository finds trends on Twitter with Hadoop.
+This Repository finds trends on Twitter with Hadoop. 
+Trends include positive or negative tweets about specific keyword(s) given by the user.
 
 ## How to run part A of application:
 
